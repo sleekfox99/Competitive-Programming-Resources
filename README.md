@@ -1,3 +1,5 @@
+hi there gpt speaking
+
 # Resources for Competitive Programming, Interview Prep, System Design, & Problem Solving
   
 ## Video Tutorials
