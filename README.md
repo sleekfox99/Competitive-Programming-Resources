@@ -1,3 +1,7 @@
+Sunny Kumar is using this readme file 
+hi 
+Sayonara
+-----------------------------------------------------------------------------------------
 # Resources for Competitive Programming, Interview Prep, System Design, & Problem Solving
   
 ## Video Tutorials
@@ -33,15 +37,7 @@
 - [Engineering Blogs/Articles/Videos for System Design](https://workat.tech/system-design/article/best-engineering-blogs-articles-videos-system-design-tvwa05b8bzzr)
 
 ## Platforms to Practice: 
-- [Codeforces](http://codeforces.com/contests)
-- [Codechef](https://www.codechef.com)
-- [Leetcode](https://leetcode.com)
-- [AtCoder](https://atcoder.jp/contests/)
-- [TopCoder](https://www.topcoder.com)
-- [SPOJ](https://www.spoj.com/users/lebron/)
-- [Hackerrank](https://www.hackerrank.com/dashboard)
-- [ProjectEuler](https://projecteuler.net/archives)
-- [HackerEarth](https://www.hackerearth.com/challenges/)
+//www.hackerearth.com/challenges/)
 - [DailyCodingProblem](https://www.dailycodingproblem.com)
 - [UrionlineJudge](https://www.urionlinejudge.com.br/judge/en/login)
 - [Workattech DSA Interview Practice](https://workat.tech/problem-solving/practice?tags=dsa)
